@@ -1,0 +1,9 @@
+py -m pip install --user virtualenv
+py -m venv GKUIZ
+Just do it from here to start venv
+.\GKUIZ\Scripts\activate
+deactivate
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+
+
+py -m pip install --upgrade pip
